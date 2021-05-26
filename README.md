@@ -4,20 +4,16 @@
 
 ![Latest Ethereum Inforamtion](https://github.com/Spaceboy0621/latest-ethereum-information/blob/main/public/img/dashboard.png)
 
-### A beautiful UI Kit and Admin for Tailwind CSS and NextJS.
+### Tech Stack
 
-Start your development with a Free Tailwind CSS and NextJS UI Kit and Admin. Let Latest Ethereum Information amaze you with its cool features and build tools and get your project to a whole new level.
-
-Latest Ethereum Information is Free and Open Source. It features multiple HTML and NextJS elements and it comes with dynamic components for NextJS.
-
-If you like bright and fresh colors, you will love this Free Tailwind CSS Template! It features a huge number of components that can help you create amazing websites.
+Next(CSR), Tailwindcss, Node, Web3 Library, Axios
 
 ### Get Started
 
 - Download the product on this page
 - Unzip the downloaded file to a folder in your computer
-- Open Terminal
 - Go to your file project (where you’ve unzipped the product)
+- Open Terminal
 - Run in terminal `yarn install`
 - Run in terminal `yarn build`
 - Run in terminal `yarn start`
@@ -25,11 +21,7 @@ If you like bright and fresh colors, you will love this Free Tailwind CSS Templa
 
 ### Pages
 
-If you want to get inspiration or just show something directly to your clients,
-you can jump start your development with our pre-built example pages. You will be able
-to quickly set up the basic structure for your web project.
-
-Here are all the page from the project:
+Here are the latest ethereum infomation page:
 - [LandingPage](https://github.com/Spaceboy0621/latest-ethereum-information)
 
 ## Browser Support
